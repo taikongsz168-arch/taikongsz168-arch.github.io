@@ -1,0 +1,112 @@
+# ===== 站点基础信息 =====
+baseURL = "https://taikongsz168-arch.github.io/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+title = "Current · 个人工作室"
+theme = "PaperMod"
+
+# 支持中文的正确字数统计 / 摘要截取
+hasCJKLanguage = true
+
+# 生成 robots.txt（SEO）
+enableRobotsTXT = true
+
+# 分页：新写法（Hugo v0.128.0+）
+[pagination]
+  pagerSize = 10
+
+# 分类法
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# 首页输出 JSON，PaperMod 内置搜索需要
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ===== PaperMod 主题参数 =====
+[params]
+  env = "production"
+  description = "个人品牌网站：简历 · 项目成果 · 知识库 · 博客"
+  keywords = ["个人品牌", "简历", "作品集", "博客", "知识库"]
+  author = "Current"
+
+  # 主题：auto 跟随系统深色/浅色
+  defaultTheme = "auto"
+
+  # 文章页常用开关
+  ShowReadingTime = true       # 阅读时间
+  ShowShareButtons = true      # 分享按钮
+  ShowPostNavLinks = true      # 上一篇/下一篇
+  ShowBreadCrumbs = true       # 面包屑导航
+  ShowCodeCopyButtons = true   # 代码块一键复制
+  ShowWordCount = true         # 字数统计
+  ShowToc = true               # 文章目录
+  TocOpen = false              # 默认收起 TOC
+
+  # 首页"profileMode"——个人卡片式首页
+  [params.profileMode]
+    enabled = true
+    title = "你好，我是 Current 👋"
+    subtitle = "这里记录我的简历、项目成果、知识库与思考。"
+    imageUrl = "/images/avatar.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "我的头像"
+
+    [[params.profileMode.buttons]]
+      name = "简历"
+      url = "/resume/"
+    [[params.profileMode.buttons]]
+      name = "项目成果"
+      url = "/projects/"
+    [[params.profileMode.buttons]]
+      name = "知识库"
+      url = "/knowledge/"
+    [[params.profileMode.buttons]]
+      name = "博客"
+      url = "/posts/"
+
+  # 社交链接图标
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/taikongsz168-arch"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:你的邮箱@example.com"
+
+# ===== 顶部导航菜单 =====
+[[menu.main]]
+  identifier = "resume"
+  name = "简历"
+  url = "/resume/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "projects"
+  name = "项目成果"
+  url = "/projects/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "knowledge"
+  name = "知识库"
+  url = "/knowledge/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "posts"
+  name = "博客"
+  url = "/posts/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "tags"
+  name = "标签"
+  url = "/tags/"
+  weight = 50
+
+# 允许在 Markdown 中嵌入 HTML（部分 PaperMod 短代码需要）
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Current · 个人工作室</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Current · 个人工作室</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>个人简历</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;：Current&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：你的邮箱@example.com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所在地&lt;/strong&gt;：城市&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;职业经历&#34;&gt;职业经历&lt;/h2&gt;
+&lt;h3 id=&#34;xx-公司--职位202203-至今&#34;&gt;XX 公司 — 职位（2022.03 至今）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;负责 XXX 项目的 XXX&lt;/li&gt;
+&lt;li&gt;关键成果：XXX 指标提升 N%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技能清单&#34;&gt;技能清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;编程语言 / 工具：&lt;/li&gt;
+&lt;li&gt;框架 / 平台：&lt;/li&gt;
+&lt;li&gt;方法论 / 软技能：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email：xxx@example.com&lt;/li&gt;
+&lt;li&gt;GitHub：https://github.com/taikongsz168-arch&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>你好，世界 — 个人工作室上线了</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;这是我个人工作室上线后的第一篇博客。&lt;/p&gt;
+&lt;p&gt;这里将持续更新：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;项目成果&lt;/li&gt;
+&lt;li&gt;知识库&lt;/li&gt;
+&lt;li&gt;工作复盘&lt;/li&gt;
+&lt;li&gt;学习记录&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>项目 A：XXX 系统建设</title>
+      <link>http://localhost:1313/projects/my-first-project/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/my-first-project/</guid>
+      <description>为某客户重构 XXX 流程，提升 XX 指标 35%</description>
+    </item>
+    <item>
+      <title>用 Hugo &#43; GitHub Pages 搭建个人网站</title>
+      <link>http://localhost:1313/knowledge/my-first-note/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/my-first-note/</guid>
+      <description>把这次建站过程沉淀成一篇可复用的笔记</description>
+    </item>
+  </channel>
+</rss>
