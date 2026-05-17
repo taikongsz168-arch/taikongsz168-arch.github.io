@@ -13,29 +13,18 @@
       <link>http://localhost:1313/resume/</link>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
+      <description>&lt;h3 id=&#34;基本信息&#34;&gt;基本信息&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;：Current&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：你的邮箱@example.com&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;所在地&lt;/strong&gt;：城市&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;：魏大淇&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电话&lt;/strong&gt;：136-8262-3594&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：2903174636@qq.com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所在地&lt;/strong&gt;：香港 / 深圳&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性别 / 年龄 / 民族 / 政治面貌&lt;/strong&gt;：男 / 23岁 / 汉族 / 中共党员&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;职业经历&#34;&gt;职业经历&lt;/h2&gt;
-&lt;h3 id=&#34;xx-公司--职位202203-至今&#34;&gt;XX 公司 — 职位（2022.03 至今）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;负责 XXX 项目的 XXX&lt;/li&gt;
-&lt;li&gt;关键成果：XXX 指标提升 N%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;技能清单&#34;&gt;技能清单&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;编程语言 / 工具：&lt;/li&gt;
-&lt;li&gt;框架 / 平台：&lt;/li&gt;
-&lt;li&gt;方法论 / 软技能：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Email：xxx@example.com&lt;/li&gt;
-&lt;li&gt;GitHub：https://github.com/taikongsz168-arch&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;摘录自原始简历&lt;/strong&gt;：&lt;br&gt;
+● ESG/环境信息披露:可承担数据管理、披露材料撰写、校核、版本管理与政策/框架研究。&lt;br&gt;
+● 碳核算/核查准备:持有 HKICA 注册温室气体碳审计师,具备组织/项目碳核算与底稿搭建经验Scope 123。&lt;/p&gt;</description>
     </item>
     <item>
       <title>你好，世界 — 个人工作室上线了</title>
